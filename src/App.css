@@ -1,0 +1,13 @@
+.space{
+  margin-left: 6rem;
+  margin-bottom: 1rem;
+}
+
+.btn-space{
+  /* margin-left: 5rem; */
+  /* display:flex; */
+  margin-left: 6rem;
+}
+.btn{
+  margin-right: 0.1rem;
+}

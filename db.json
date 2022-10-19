@@ -1,0 +1,31 @@
+{
+  "Student": [
+    {
+      "email": "pooja@gmail.com",
+      "name": "pooja",
+      "lname": "kale",
+      "id": 6,
+      "status": "approved"
+    },
+    {
+      "email": "shubham@gmail.com",
+      "name": "shubham",
+      "lname": "jain",
+      "id": 7,
+      "status": "rejected"
+    },
+    {
+      "email": "Mayuri@gamil",
+      "name": "mayuri",
+      "lname": "hajari",
+      "id": 8,
+      "status": "pending"
+    },
+    {
+      "email": "devyani@gmail.com",
+      "name": "devyani",
+      "lname": "honde",
+      "id": 9
+    }
+  ]
+}
